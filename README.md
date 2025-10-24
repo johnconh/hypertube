@@ -69,3 +69,10 @@ El proyecto sigue una arquitectura de microservicios con tres componentes princi
     - for backend deployment only:
 
         make backend
+
+![Hypertube 1](./img/hypertube0.png)
+![Hypertube 2](./img/hypertube01.png)
+![Hypertube 3](./img/hypertube02.png)
+![Hypertube 4](./img/hypertube03.png)
+![Hypertube 5](./img/hypertube05.png)
+![Hypertube 6](./img/hypertube06.png)
